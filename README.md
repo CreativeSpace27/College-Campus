@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Main%20Project/app/src/main/res/drawable/study_meditation.png" alt="Study Meditation" width="300"/>
+</p>
+
 <!-- Banner/Logo (replace with your logo if available) -->
 <p align="center">
   <img src="https://img.shields.io/badge/College%20Campus-Android%20App-blueviolet?style=for-the-badge" alt="College Campus" />
