@@ -89,5 +89,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 📬 Contact
 
 > **Piyush Bhadade**  
-> Email: [piyushbhadade27@gmail.com](mailto:piyushbhadade27@gmail.com)  
-> LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+> Email: piyushbhadade27@gmail.com  
+> LinkedIn: https://www.linkedin.com/in/piyush-bhadade-18718623b/
