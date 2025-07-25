@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Main%20Project/app/src/main/res/drawable/study_meditation.png" alt="Study Meditation" width="300"/>
+  <img src="Main%20Project/app/src/main/res/drawable/logo2.png" alt="Study Meditation" width="300"/>
 </p>
 
 <!-- Banner/Logo (replace with your logo if available) -->
