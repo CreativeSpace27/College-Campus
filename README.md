@@ -35,7 +35,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/college-campus.git
+git clone https://github.com/CreativeSpace27/college-campus.git
 Open the project in Android Studio.
 
 Configure Firebase for your app:
@@ -68,7 +68,7 @@ Contact
 For any queries or support, please reach out to:
 
 Piyush Bhadade
-Email: your.email@example.com
+Email: piyushbhadade27@gmail.com
 LinkedIn: linkedin.com/in/yourprofile
 
 Build a smarter campus with College Campus — your partner in efficient college management.
